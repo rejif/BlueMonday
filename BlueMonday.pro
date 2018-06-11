@@ -8,5 +8,9 @@ include(src/src.pri)
 RESOURCES += \
     $$PWD/resources/resource.qrc
 DISTFILES += \
+    .gitignore \
     appveyor.yml \
+    app.ico \
+    icon.rc \
+    LICENSE \
     README.md
