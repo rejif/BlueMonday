@@ -2,5 +2,6 @@
     <qresource prefix="/">
         <file>1528643601001.png</file>
         <file>bm.png</file>
+        <file>720x480.png</file>
     </qresource>
 </RCC>
